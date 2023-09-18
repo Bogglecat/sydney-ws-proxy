@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'OvOrange'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE95ABFA2D004746AE8B727B871F3011 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6209E10B61A647F3B0588036A72264CA }}
           package: .
